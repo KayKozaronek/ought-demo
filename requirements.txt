@@ -1,5 +1,0 @@
-streamlit=1.8.1=pyhd8ed1ab_0
-transformers=4.11.3=py_0
-pytorch=1.11.0=py3.9_cpu_0
-seaborn=0.11.0=py_0
-pandas=1.4.2=py39h2e25243_1
