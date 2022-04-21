@@ -1,5 +1,5 @@
-pandas==1.3.5
-seaborn==0.11.0
-streamlit==1.8.1
-torch==1.11.0
-transformers==4.11.3
+pandas
+seaborn
+streamlit
+torch
+transformers

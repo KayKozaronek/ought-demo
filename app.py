@@ -43,7 +43,7 @@ with st.expander('Results'):
 
 
 paper = st.file_uploader(label='Upload a paper here',
-                 type = ['txt','csv'],
+                 type = ['txt'],
                  accept_multiple_files=False)
 
 
