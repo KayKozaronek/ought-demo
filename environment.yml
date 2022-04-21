@@ -1,7 +1,0 @@
-name: ought-demo
-dependencies:
-  - streamlit
-  - transformers
-  - torch 
-  - seaborn
-  - pandas
